@@ -1,0 +1,22 @@
+[
+
+{
+ "icon":"fas fa-shopping-basket",
+ "title":"items",
+ "children":[
+  {
+   "childText":"item groups",
+   "to":"/item-groups"
+  },
+   {
+   "childText":"items",
+   "to":"/items"
+  },
+   {
+   "childText":"iventory adjustement",
+   "to":"/iventory-adjustement"
+  }
+ 
+ ]
+}
+]

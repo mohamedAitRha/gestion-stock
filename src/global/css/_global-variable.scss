@@ -1,0 +1,43 @@
+$mainBackgroud:#f7f7f7;
+$backgroudLogo :#eee;
+$BordercolorBlue:#0081d9;
+$backgroudBlue:#2485e8;
+$backgroundActive:#1f282d;
+$colorActive:#2fa3e6;
+$colorSidebar:#fff;
+$font-size-icon : 1.3rem;
+$color-navbar-icon:#636e7b;
+
+body{
+    background: #2d373c;
+    //font-family: Inter,"Source Sans Pro",Helvetica,Arial,sans-serif;
+    line-height: 1.6;
+    color: $color-navbar-icon;
+    font-weight: 500;
+    text-transform: capitalize;
+    overflow:hidden;
+}
+/**** GLOBAL CALSS ******/
+.font-xlarge {
+ font-size: 18px;
+}
+.font-weight-light {
+ font-weight: 300!important;
+}
+/*****END GLOBAL CLASS ****/
+a{text-decoration: none;}
+
+input:focus,input:hover{
+ outline: none;
+ box-shadow: none;
+}
+ul{
+ list-style: none;
+ border: none;
+ margin: 0;
+ padding: 0;
+}
+
+i{
+ font-size: $font-size-icon;
+}
